@@ -73,7 +73,7 @@
     "grunt-contrib-requirejs": "0.4.1",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-env": "0.4.4",
-    "clean-css": "^3.4.18",
+    "clean-css": "^4.2.3",
     "grunt-exec": "^0.4.7",
     "grunt-execute": "^0.2.2",
     "grunt-file-append": "0.0.6",
